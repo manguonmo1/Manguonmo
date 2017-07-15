@@ -1,5 +1,0 @@
-﻿Thông tin về tổ chức mã nguồn mở:
-Open source software là những phần mềm được viết và cung cấp một cách tự do. Người dùng phần mềm mã nguồn mở không những được dùng phần mềm mà còn được download mã nguồn của phần mềm, để tùy ý sửa đổi, cải tiến và mở rộng cho nhu cầu công việc của mình. 
-Một phần mềm áp dụng loại giấy phép mà cho phép bất cứ ai sử dụng dưới mọi hình thức, có thể là truy cập, chỉnh sửa, sao chép,…và phân phối các phiên bản khác nhau của mã nguồn phần mềm, được gọi là open-source software. Nhìn chung, thuật ngữ “Open source” được dùng để lôi cuốn các nhà kinh doanh, một điều thuận lợi chính là sự miễn phí và cho phép người dùng có quyền "sở hữu hệ thống". 
-Tiện ích mà free software mang lại chính là quyền tự do sử dụng chương trình cho mọi mục đích, quyền tự do để nghiên cứu cấu trúc của chương trình, chỉnh sửa phù hợp với nhu cầu, truy cập vào mã nguồn, quyền tự do phân phối lại các phiên bản cho nhiều người, quyền tự do cải tiến chương trình và phát hành những bản cải tiến vì mục đích công cộng. 
-Một điều kiện hay được áp dụng nhất là GPL: GNU General Public Licence của tổ chức Free Software Foundation. 
