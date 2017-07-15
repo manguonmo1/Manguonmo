@@ -170,21 +170,29 @@ b. Phân tích hệ thống chức năng
 	In hóa đơn
 2.	Biểu đồ luồng dữ liệu
 -	Mức bối cảnh
+
  ![m c b i c nh](https://user-images.githubusercontent.com/27817852/28237713-53d18c9a-6970-11e7-9bbb-6fcda7093e8e.png)
+ 
 -	Mức đỉnh
+
  ![m c d nh](https://user-images.githubusercontent.com/27817852/28237720-710bc9a6-6970-11e7-9138-e2993d0a39ee.png)
 
  
 3.	Thiết kế cơ sở dữ liệu
 -	Sản phẩm
+
  ![csdlsp](https://user-images.githubusercontent.com/27817852/28237722-7f6de830-6970-11e7-84df-a26a1252ef81.png)
 
 -	Loại sản phẩm
+
  ![lo i sp](https://user-images.githubusercontent.com/27817852/28237730-9d408246-6970-11e7-81ad-8bd2b8661684.png)
+ 
 -	Hóa đơn
+
  ![hoa d n](https://user-images.githubusercontent.com/27817852/28237737-ab7cee12-6970-11e7-8498-72cf0bd15cce.png)
 
 -	Chi tiết hóa đơn
+
  ![cthd](https://user-images.githubusercontent.com/27817852/28237742-ba36ea2a-6970-11e7-9d04-9a18ef550e95.png)
  
 -	Phiếu nhập
@@ -195,6 +203,7 @@ b. Phân tích hệ thống chức năng
 ![ct phi u nh p](https://user-images.githubusercontent.com/27817852/28237752-ce4a6dca-6970-11e7-9298-7d386a7350fd.png)
 
 -	Chức vụ
+
  ![ch c v](https://user-images.githubusercontent.com/27817852/28237754-d8e4ec92-6970-11e7-9c63-2a45f7bb2633.png)
 
 
@@ -204,17 +213,23 @@ b. Phân tích hệ thống chức năng
 
 
 -	Nhà phân phối
+
  ![nha phan ph i](https://user-images.githubusercontent.com/27817852/28237760-eaec16b8-6970-11e7-9186-44858b474c8a.png)
  
 -	Khách hàng
+
  ![kh](https://user-images.githubusercontent.com/27817852/28237769-f8637296-6970-11e7-93d6-9f9bc491ebae.png)
 -	Loại khách hàng
+
  ![lo i kh](https://user-images.githubusercontent.com/27817852/28237770-fce1d704-6970-11e7-8ed5-eedb38501e91.png)
 -	Nhân viên
+
  ![nv](https://user-images.githubusercontent.com/27817852/28237773-09710198-6971-11e7-80bf-b76da0cf7ede.png)
 -	Quyền
+
  ![quy n](https://user-images.githubusercontent.com/27817852/28237774-0f6376ee-6971-11e7-8a8e-21c3c9840bac.png)
 -	User
+
  ![user](https://user-images.githubusercontent.com/27817852/28237776-125a5b74-6971-11e7-9a95-d1b34482d249.png)
 4.	Biểu đồ dữ liệu quan hệ
  
@@ -223,80 +238,102 @@ b. Phân tích hệ thống chức năng
  
 5.	Thiết kế các biểu mẫu
 -	Hóa đơn bán hàng
+
  ![bi u m u ban](https://user-images.githubusercontent.com/27817852/28237780-2f914d4c-6971-11e7-9488-2a03b0e89635.png)
  
 -	Hóa đơn nhập hàng
+
  ![bi u m u nh p](https://user-images.githubusercontent.com/27817852/28237781-318830de-6971-11e7-97fc-e4337700c6fc.png)
  
 PHẦN 4: XÂY DỰNG HỆ THỐNG
 
 1.	Thiết kế giao diện
 -	Form đăng nhập
+
  ![form dang nh p](https://user-images.githubusercontent.com/27817852/28237785-415e2158-6971-11e7-87e6-f62cacfb57e9.png)
 -	Form đăng ký
+
  ![form dang ky](https://user-images.githubusercontent.com/27817852/28237787-427f6b1e-6971-11e7-9371-a25f076552de.png)
  
 -	Form hóa đơn và chi tiết hóa đơn
+
  ![form hoa d n](https://user-images.githubusercontent.com/27817852/28237789-48846136-6971-11e7-8742-87b8345aa43c.png)
 -	Form sản phẩm
+
  ![form sp](https://user-images.githubusercontent.com/27817852/28237791-4e480cee-6971-11e7-8892-4ef3aa5c7053.png)
  
 -	Form khách hàng
+
  ![form kh](https://user-images.githubusercontent.com/27817852/28237805-aeb2a6f2-6971-11e7-9bd8-981af1474d4d.png)
 -	Form nhân viên
+
  ![form nv](https://user-images.githubusercontent.com/27817852/28237806-b4b97ea4-6971-11e7-8350-dc1c42a33f9a.png)
  
 -	Form đối tác (nhà phân phối)
+
  ![form d i tac](https://user-images.githubusercontent.com/27817852/28237807-b64e922c-6971-11e7-996f-9f6af550b30e.png)
+ 
 -	Form doanh thu
+
  ![form doanh thu](https://user-images.githubusercontent.com/27817852/28237809-bad753f6-6971-11e7-8185-401f58846f06.png)
  
 -	Form liên hệ
+
  ![form lien h](https://user-images.githubusercontent.com/27817852/28237810-bca430aa-6971-11e7-9bfb-3ed5e14b9fd0.png)
 
 PHẦN 5: HƯỚNG DẪN SỬ DỤNG HỆ THỐNG
 1.	Hướng dẫn đăng ký, đăng nhập hệ thống:
 -	Đăng ký tài khoản cho nhân viên
+
  ![form dang ky](https://user-images.githubusercontent.com/27817852/28237787-427f6b1e-6971-11e7-9371-a25f076552de.png)
 Bước 1: Khởi động hệ thống. Nhấn vào ô đăng ký
 Bước 2: Điền đầy đủ thông tin và nhấn vào tạo tài khoản mới
 Bước 3: Nhấn vào đăng nhập ngay để đăng nhập vào hệ thống
 -	Đăng nhập hệ thống
+
  ![form dang nh p](https://user-images.githubusercontent.com/27817852/28237785-415e2158-6971-11e7-87e6-f62cacfb57e9.png)
 Bước 1: Điền thông tin tài khoản đăng nhập (có thể nhấn vào ô nhớ mật khẩu để lưu mật khẩu)
 Bước 2: Nhấn vào ô đăng nhập để đăng nhập hệ thống
 2.	Hướng dẫn sử dụng các form quản lý
 -	Form hóa đơn và chi tiết hóa đơn
+
   ![form hoa d n](https://user-images.githubusercontent.com/27817852/28237789-48846136-6971-11e7-8742-87b8345aa43c.png)
 Ở form này ta có 2 bảng: + Bảng hóa đơn để quản lý hóa đơn bao gồm 3 chức năng chính (thêm, xóa, sửa)
 + Bảng chi tiết hóa đơn để quản lý chi tiết các hóa đơn cũng  gồm 3 chức năng chính là thêm, xóa, sửa.
 -	Form sản phẩm
+
   ![form sp](https://user-images.githubusercontent.com/27817852/28237791-4e480cee-6971-11e7-8892-4ef3aa5c7053.png)
 Form sản phẩm gồm có các chức năng:
 + Thêm các mặt hàng mới
 + Cập nhật thông tin mặt hàng
 + Xóa mặt hàng đã hết trong kho và không nhập thêm 
 -	Form khách hàng
+
   ![form kh](https://user-images.githubusercontent.com/27817852/28237805-aeb2a6f2-6971-11e7-9bd8-981af1474d4d.png)
 Quản lý thông tin khách hàng gồm các chức năng: Thêm, xóa, sửa thông tin khách hàng
 -	Form nhân viên
+
   ![form nv](https://user-images.githubusercontent.com/27817852/28237806-b4b97ea4-6971-11e7-8350-dc1c42a33f9a.png)
 Quản lý thông tin nhân viên gồm các chức năng: Thêm, xóa, sửa thông tin nhân viên
  
 -	Form đối tác (nhà phân phối)
+
  ![form d i tac](https://user-images.githubusercontent.com/27817852/28237807-b64e922c-6971-11e7-996f-9f6af550b30e.png)
 Quản lý đối tác:
 + Thêm những đối tác mới
 + Sửa thông tin đối tác
 + Xóa những đối tác đã không còn hợp tác
 -	Form doanh thu
+
  ![form doanh thu](https://user-images.githubusercontent.com/27817852/28237809-bad753f6-6971-11e7-8185-401f58846f06.png)
 Quản lý doanh thu: Thống kê doanh thu theo ngày, tháng, quý, năm.
  
 -	Đăng xuất hệ thống
+
   ![form lien h](https://user-images.githubusercontent.com/27817852/28237810-bca430aa-6971-11e7-9bfb-3ed5e14b9fd0.png)
 Click vào nút đăng xuất để thoát khỏi hệ thống
 -	Form liên hệ
+
   ![form lien h](https://user-images.githubusercontent.com/27817852/28237810-bca430aa-6971-11e7-9bfb-3ed5e14b9fd0.png)
 Xem thông tin chủ cửa hàng và có thể liên hệ với cửa hàng.
 
