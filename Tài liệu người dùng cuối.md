@@ -196,6 +196,7 @@ b. Phân tích hệ thống chức năng
  ![cthd](https://user-images.githubusercontent.com/27817852/28237742-ba36ea2a-6970-11e7-9d04-9a18ef550e95.png)
  
 -	Phiếu nhập
+
  ![phi u nh p](https://user-images.githubusercontent.com/27817852/28237750-c4d67bf8-6970-11e7-8f9e-3955808d5888.png)
 
 -	Chi tiết phiếu nhập
@@ -258,6 +259,7 @@ PHẦN 4: XÂY DỰNG HỆ THỐNG
 -	Form hóa đơn và chi tiết hóa đơn
 
  ![form hoa d n](https://user-images.githubusercontent.com/27817852/28237789-48846136-6971-11e7-8742-87b8345aa43c.png)
+ 
 -	Form sản phẩm
 
  ![form sp](https://user-images.githubusercontent.com/27817852/28237791-4e480cee-6971-11e7-8892-4ef3aa5c7053.png)
@@ -265,6 +267,7 @@ PHẦN 4: XÂY DỰNG HỆ THỐNG
 -	Form khách hàng
 
  ![form kh](https://user-images.githubusercontent.com/27817852/28237805-aeb2a6f2-6971-11e7-9bd8-981af1474d4d.png)
+ 
 -	Form nhân viên
 
  ![form nv](https://user-images.githubusercontent.com/27817852/28237806-b4b97ea4-6971-11e7-8350-dc1c42a33f9a.png)
