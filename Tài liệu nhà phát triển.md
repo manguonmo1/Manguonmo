@@ -245,4 +245,10 @@ PHẦN 3: XÂY DỰNG HỆ THỐNG
 
  ![form lien h](https://user-images.githubusercontent.com/27817852/28237810-bca430aa-6971-11e7-9bfb-3ed5e14b9fd0.png)
 
+Phần chưa hoàn thiện
+- Form doanh thu: chưa hoàn thiện
 
+![doanhthu](https://user-images.githubusercontent.com/27817852/28253827-b3e1eab4-6ad1-11e7-939a-9aafddefbd51.png)
+- Form liên hệ: chưa hoàn thiện
+
+![lienhe](https://user-images.githubusercontent.com/27817852/28253832-bde2dd8e-6ad1-11e7-9eda-338e80fa2f7e.png)
